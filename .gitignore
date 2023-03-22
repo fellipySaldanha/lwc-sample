@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+manifest
+config
+.vscode
+.sfdx
+sfdx-project.json
+force-app/main/default/lwc/jsconfig.json
