@@ -355,3 +355,6 @@ config
 .sfdx
 sfdx-project.json
 force-app/main/default/lwc/jsconfig.json
+.pmdCache
+.sf
+.localdevserver
